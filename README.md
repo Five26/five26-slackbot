@@ -1,3 +1,5 @@
+[![Circle CI](https://circleci.com/gh/Five26/five26-slackbot/tree/master.svg?style=svg)](https://circleci.com/gh/Five26/five26-slackbot/tree/master)
+
 _Truely an abomination amongst mankind_
 _testing to replace hubot_
 
