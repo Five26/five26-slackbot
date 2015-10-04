@@ -1,0 +1,13 @@
+test:
+  override:
+      - echo "built!" 
+
+notify:
+  webhooks:
+    - url: https://hooks.slack.com/services/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
+
+deployment:  
+  production:
+    branch: master    
+    commands:
+      - ./deploy.sh
